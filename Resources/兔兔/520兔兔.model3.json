@@ -1,0 +1,53 @@
+{
+    "FileReferences": {
+        "DisplayInfo": "520兔兔.cdi3.json",
+        "Expressions": [
+            {
+                "File": "expressions/angry.exp3.json",
+                "Name": "angry"
+            },
+            {
+                "File": "expressions/cry.exp3.json",
+                "Name": "cry"
+            },
+            {
+                "File": "expressions/hands.exp3.json",
+                "Name": "hands"
+            },
+            {
+                "File": "expressions/shy.exp3.json",
+                "Name": "shy"
+            }
+        ],
+        "Moc": "520兔兔.moc3",
+        "Motions": {
+            "Idle": [
+            ]
+        },
+        "Physics": "520兔兔.physics3.json",
+        "Textures": [
+            "520兔兔.4096/texture_00.png",
+            "520兔兔.4096/texture_01.png",
+            "520兔兔.4096/texture_02.png"
+        ]
+    },
+    "Groups": [
+        {
+            "Ids": [
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        },
+        {
+            "Ids": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ],
+            "Name": "EyeBlink",
+            "Target": "Parameter"
+        }
+    ],
+    "HitAreas": [
+    ],
+    "Version": 3
+}

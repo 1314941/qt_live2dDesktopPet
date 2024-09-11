@@ -1,0 +1,36 @@
+{
+    "FileReferences": {
+        "DisplayInfo": "Amelia - t.cdi3.json",
+        "Expressions": [
+        ],
+        "Moc": "Amelia - t.moc3",
+        "Motions": {
+            "Idle": [
+            ]
+        },
+        "Physics": "Amelia - t.physics3.json",
+        "Textures": [
+            "Amelia - t.4096/texture_00.png",
+            "Amelia - t.4096/texture_01.png",
+            "Amelia - t.4096/texture_02.png",
+            "Amelia - t.4096/texture_03.png"
+        ]
+    },
+    "Groups": [
+        {
+            "Ids": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ],
+            "Name": "EyeBlink",
+            "Target": "Parameter"
+        },
+        {
+            "Ids": [
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        }
+    ],
+    "Version": 3
+}

@@ -1,0 +1,18 @@
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/Amelia/Amelia - t.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/Celeste(DLC DUCK)Ⅱ - f/Celeste(DLC DUCK)Ⅱ - f.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/EVA-2 - free/EVA-2.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/Hiyori/Hiyori.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/Mao/Mao.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/Rice/Rice.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/abeikelongbi_3/abeikelongbi_3.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/ariu/ariu.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/chunsheng/chunsheng.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/chunsheng_VTS/chunsheng.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/fangcao/fangcao.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/lafei/lafei_4.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/mianfeimox/llny.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/sanyueqi/sanyueqi.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/taiyuan/taiyuan_2.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/witch X1/witch X1.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/yichui/yichui_2.model3.json
+C:/Users/xiaobai/Desktop/cute/qtlive2d_DesktopPet/Resources/兔兔/520兔兔.model3.json
