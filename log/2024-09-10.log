@@ -1,0 +1,112 @@
+2024-09-10 20:00:17 - [DEBUG] (:0, ): Hello
+2024-09-10 20:00:17 - [DEBUG] (:0, ): 当前时间是:  "20:00:17"
+2024-09-10 20:00:17 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:00:18 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 20:03:30 - [DEBUG] (:0, ): Hello
+2024-09-10 20:03:30 - [DEBUG] (:0, ): 当前时间是:  "20:03:30"
+2024-09-10 20:03:30 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:03:30 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan" 
+
+2024-09-10 20:03:30 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan" 
+
+2024-09-10 20:03:30 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 20:04:14 - [DEBUG] (:0, ): Hello
+2024-09-10 20:04:14 - [DEBUG] (:0, ): 当前时间是:  "20:04:14"
+2024-09-10 20:04:14 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:04:16 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/code_when_second/Live2d/Amelia_free_073d0/Amelia free/Amelia" 
+
+2024-09-10 20:04:16 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia" 
+
+2024-09-10 20:04:16 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 20:07:52 - [DEBUG] (:0, ): Hello
+2024-09-10 20:07:52 - [DEBUG] (:0, ): 当前时间是:  "20:07:52"
+2024-09-10 20:07:52 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:07:55 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-10 20:07:55 - [DEBUG] (:0, ): 开始将模型地址写入JSON文件。
+2024-09-10 20:07:55 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/code_when_second/Live2d/EVA-2_-_free_0d74e/EVA-2 - free/EVA-2 - free"
+2024-09-10 20:07:55 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free"
+2024-09-10 20:07:55 - [DEBUG] (:0, ): Failed to copy directory: "C:/Users/xiaobai/Desktop/code_when_second/Live2d/EVA-2_-_free_0d74e/EVA-2 - free/EVA-2 - free" to "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free" 
+
+2024-09-10 20:07:55 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/EVA-2.model3.json" 
+
+2024-09-10 20:07:55 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 20:25:36 - [DEBUG] (:0, ): Hello
+2024-09-10 20:25:36 - [DEBUG] (:0, ): 当前时间是:  "20:25:36"
+2024-09-10 20:25:36 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:25:39 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-10 20:25:39 - [DEBUG] (:0, ): 开始将模型地址写入JSON文件。
+2024-09-10 20:25:39 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/code_when_second/Live2d/Amelia_free_073d0/Amelia free/Amelia"
+2024-09-10 20:25:39 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-10 20:25:39 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 20:38:39 - [DEBUG] (:0, ): Hello
+2024-09-10 20:38:39 - [DEBUG] (:0, ): 当前时间是:  "20:38:39"
+2024-09-10 20:38:39 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:38:41 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-10 20:38:41 - [DEBUG] (:0, ): 开始将模型地址写入JSON文件。
+2024-09-10 20:38:41 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/code_when_second/Live2d/Amelia_free_073d0/Amelia free/Amelia"
+2024-09-10 20:38:41 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-10 20:38:41 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 20:43:27 - [DEBUG] (:0, ): Hello
+2024-09-10 20:43:27 - [DEBUG] (:0, ): 当前时间是:  "20:43:27"
+2024-09-10 20:43:27 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:43:29 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-10 20:43:29 - [DEBUG] (:0, ): 开始将模型地址写入JSON文件。
+2024-09-10 20:43:29 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/code_when_second/Live2d/Amelia_free_073d0/Amelia free/Amelia"
+2024-09-10 20:43:29 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-10 20:43:29 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/Amelia - t.model3.json" 
+
+2024-09-10 20:43:29 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 20:44:38 - [DEBUG] (:0, ): Hello
+2024-09-10 20:44:38 - [DEBUG] (:0, ): 当前时间是:  "20:44:38"
+2024-09-10 20:44:38 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:44:41 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-10 20:44:41 - [DEBUG] (:0, ): 开始将模型地址写入JSON文件。
+2024-09-10 20:44:41 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/code_when_second/Live2d/EVA-2_-_free_0d74e/EVA-2 - free/EVA-2 - free"
+2024-09-10 20:44:41 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free"
+2024-09-10 20:44:41 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/EVA-2.model3.json" 
+
+2024-09-10 20:44:42 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 20:46:36 - [DEBUG] (:0, ): Hello
+2024-09-10 20:46:36 - [DEBUG] (:0, ): 当前时间是:  "20:46:36"
+2024-09-10 20:46:36 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:46:37 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-10 20:46:37 - [DEBUG] (:0, ): 开始将模型地址写入JSON文件。
+2024-09-10 20:46:37 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/code_when_second/Live2d/L0YstnzEI6_uz5kobTNKY/兔兔"
+2024-09-10 20:46:37 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/兔兔"
+2024-09-10 20:46:37 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/兔兔/520兔兔.model3.json" 
+
+2024-09-10 20:46:37 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-10 20:46:37 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 20:49:13 - [DEBUG] (:0, ): Hello
+2024-09-10 20:49:13 - [DEBUG] (:0, ): 当前时间是:  "20:49:13"
+2024-09-10 20:49:13 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 20:49:16 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-10 20:49:16 - [DEBUG] (:0, ): 开始将模型地址写入JSON文件。
+2024-09-10 20:49:16 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/code_when_second/Live2d/Amelia_free_073d0/Amelia free/Amelia"
+2024-09-10 20:49:16 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-10 20:49:16 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/Amelia - t.model3.json" 
+
+2024-09-10 20:49:16 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 21:07:39 - [DEBUG] (:0, ): Hello
+2024-09-10 21:07:39 - [DEBUG] (:0, ): 当前时间是:  "21:07:39"
+2024-09-10 21:07:39 - [INFO ] (:0, ): "God bless you!"
+2024-09-10 21:07:41 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-10 21:07:41 - [DEBUG] (:0, ): 开始将模型地址写入JSON文件。
+2024-09-10 21:07:41 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/code_when_second/Live2d/Amelia_free_073d0/Amelia free/Amelia"
+2024-09-10 21:07:41 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-10 21:07:41 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/Amelia - t.model3.json" 
+
+2024-09-10 21:07:41 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-10 21:07:41 - [DEBUG] (:0, ): Model path added to JSON file.
+
+2024-09-10 21:09:01 - [DEBUG] (:0, ): Resource folder does not exist.

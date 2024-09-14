@@ -1,0 +1,348 @@
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 16:00:21 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 16:00:21 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 16:00:21 - [WARN ] (:0, ): QObject::connect(QTimer, listWidgetUse): invalid nullptr parameter
+2024-09-14 16:00:21 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 16:00:21 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:00:21 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 16:00:21 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 16:06:06 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 16:06:07 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 16:06:07 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 16:06:07 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:06:07 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:06:07 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 16:06:07 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 16:06:14 - [DEBUG] (:0, ): Hello
+2024-09-14 16:06:14 - [DEBUG] (:0, ): 当前时间是:  "16:06:14"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:06:17 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/Celeste(DLC DUCK)Ⅱ - f.model3.json" 
+
+2024-09-14 16:06:17 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:06:17 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:06:17 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:06:19 - [DEBUG] (:0, ): Hello
+2024-09-14 16:06:19 - [DEBUG] (:0, ): 当前时间是:  "16:06:19"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:06:22 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/EVA-2.model3.json" 
+
+2024-09-14 16:06:22 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:06:22 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:06:22 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 16:10:28 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 16:10:28 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 16:10:29 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 16:10:29 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:10:29 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:10:29 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 16:10:29 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Hello
+2024-09-14 16:10:40 - [DEBUG] (:0, ): 当前时间是:  "16:10:40"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/fangcao.model3.json" 
+
+2024-09-14 16:10:40 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:10:44 - [DEBUG] (:0, ): Hello
+2024-09-14 16:10:44 - [DEBUG] (:0, ): 当前时间是:  "16:10:44"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:10:45 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/sanyueqi.model3.json" 
+
+2024-09-14 16:10:45 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:10:45 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:10:45 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Hello
+2024-09-14 16:11:07 - [DEBUG] (:0, ): 当前时间是:  "16:11:07"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/yichui_2.model3.json" 
+
+2024-09-14 16:11:07 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:46 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:46 - [DEBUG] (:0, ): 当前时间是:  "16:20:46"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:49 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/Celeste(DLC DUCK)Ⅱ - f.model3.json" 
+
+2024-09-14 16:20:49 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:49 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:49 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:51 - [DEBUG] (:0, ): 当前时间是:  "16:20:51"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/Amelia - t.model3.json" 
+
+2024-09-14 16:20:51 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:52 - [DEBUG] (:0, ): 当前时间是:  "16:20:52"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/Celeste(DLC DUCK)Ⅱ - f.model3.json" 
+
+2024-09-14 16:20:52 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:53 - [DEBUG] (:0, ): 当前时间是:  "16:20:53"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/Amelia - t.model3.json" 
+
+2024-09-14 16:20:53 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:54 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:54 - [DEBUG] (:0, ): 当前时间是:  "16:20:54"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:55 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/chunsheng.model3.json" 
+
+2024-09-14 16:20:55 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:55 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:55 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:56 - [DEBUG] (:0, ): 当前时间是:  "16:20:56"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/Celeste(DLC DUCK)Ⅱ - f.model3.json" 
+
+2024-09-14 16:20:56 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:57 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:57 - [DEBUG] (:0, ): 当前时间是:  "16:20:57"
+2024-09-14 16:20:57 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:57 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:57 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS"
+2024-09-14 16:20:57 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS"
+2024-09-14 16:20:57 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/chunsheng.model3.json" 
+
+2024-09-14 16:20:57 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:57 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:58 - [DEBUG] (:0, ): 当前时间是:  "16:20:58"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/fangcao.model3.json" 
+
+2024-09-14 16:20:58 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 16:21:26 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 16:21:26 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 16:21:27 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 16:21:27 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:21:27 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:21:27 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 16:21:27 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Hello
+2024-09-14 16:21:56 - [DEBUG] (:0, ): 当前时间是:  "16:21:56"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/Hiyori.model3.json" 
+
+2024-09-14 16:21:56 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Hello
+2024-09-14 16:25:09 - [DEBUG] (:0, ): 当前时间是:  "16:25:09"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/Mao.model3.json" 
+
+2024-09-14 16:25:09 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Hello
+2024-09-14 16:25:11 - [DEBUG] (:0, ): 当前时间是:  "16:25:11"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/Rice.model3.json" 
+
+2024-09-14 16:25:11 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Hello
+2024-09-14 16:25:14 - [DEBUG] (:0, ): 当前时间是:  "16:25:14"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/abeikelongbi_3.model3.json" 
+
+2024-09-14 16:25:14 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Hello
+2024-09-14 16:26:51 - [DEBUG] (:0, ): 当前时间是:  "16:26:51"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/Mao.model3.json" 
+
+2024-09-14 16:26:51 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:26:53 - [DEBUG] (:0, ): Hello
+2024-09-14 16:26:53 - [DEBUG] (:0, ): 当前时间是:  "16:26:53"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:26:54 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/ariu"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/ariu"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/ariu/ariu.model3.json" 
+
+2024-09-14 16:26:54 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:26:54 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:26:54 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): Output file created successfully.

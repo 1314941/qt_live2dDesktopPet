@@ -1,0 +1,75 @@
+{
+    "FileReferences": {
+        "DisplayInfo": "chunsheng.cdi3.json",
+        "Expressions": [
+            {
+                "File": "expressions/A1黑脸.exp3.json",
+                "Name": "A1黑脸"
+            },
+            {
+                "File": "expressions/A2爱心眼.exp3.json",
+                "Name": "A2爱心眼"
+            },
+            {
+                "File": "expressions/A3脸红.exp3.json",
+                "Name": "A3脸红"
+            },
+            {
+                "File": "expressions/A4生气.exp3.json",
+                "Name": "A4生气"
+            },
+            {
+                "File": "expressions/A5哭哭.exp3.json",
+                "Name": "A5哭哭"
+            }
+        ],
+        "Moc": "chunsheng.moc3",
+        "Motions": {
+            "Idle": [
+                {
+                    "File": "motions/baiyan.motion3.json"
+                },
+                {
+                    "File": "motions/Idle.motion3.json"
+                },
+                {
+                    "File": "motions/jingya.motion3.json"
+                },
+                {
+                    "File": "motions/kaixin.motion3.json"
+                },
+                {
+                    "File": "motions/shengqi.motion3.json"
+                },
+                {
+                    "File": "motions/shuijiao.motion3.json"
+                },
+                {
+                    "File": "motions/wink.motion3.json"
+                },
+                {
+                    "File": "motions/yaotou.motion3.json"
+                }
+            ]
+        },
+        "Physics": "chunsheng.physics3.json",
+        "Textures": [
+            "chunsheng.8192/texture_00.png"
+        ]
+    },
+    "Groups": [
+        {
+            "Ids": [
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        },
+        {
+            "Ids": [
+            ],
+            "Name": "EyeBlink",
+            "Target": "Parameter"
+        }
+    ],
+    "Version": 3
+}

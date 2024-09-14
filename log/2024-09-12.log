@@ -1,0 +1,635 @@
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/小恶魔/小恶魔.model3.json"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:20:34 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:20:34 - [WARN ] (:0, ): QPixmap::scaled: Pixmap is a null pixmap
+2024-09-12 19:20:35 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:20:35 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:24:41 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:24:41 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:27:52 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:27:53 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:27:53 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:28:26 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:28:27 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:28:27 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:33:50 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 19:33:50 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 19:33:50 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:33:50 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:36:06 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 19:36:06 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 19:36:06 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 19:36:06 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:36:06 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:39:51 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 19:39:51 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 19:39:51 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 19:39:51 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:39:51 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:39:51 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 19:39:51 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:41:34 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:41:34 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 19:41:34 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 19:41:34 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 19:41:35 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:41:35 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:41:35 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 19:41:35 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:43:25 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 19:43:25 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 19:43:25 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 19:43:25 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:43:25 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:43:25 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 19:43:25 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 19:45:21 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 19:45:21 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 19:45:21 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 19:45:21 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 19:45:21 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 19:45:21 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 19:45:21 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:00:11 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:00:11 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:00:11 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:00:11 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:00:11 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:00:11 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:00:11 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:04:34 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:04:34 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:04:34 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:04:35 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:04:35 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:04:35 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:04:35 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:04:35 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:09:05 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:09:05 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:09:06 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:09:06 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:09:06 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:09:06 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:09:06 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:09:06 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:10:09 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:10:09 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:10:09 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:10:10 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:10:10 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:10:10 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:10:10 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:10:10 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:13:53 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:13:53 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:13:54 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:13:54 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:13:54 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:13:54 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:13:54 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:13:54 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:30:16 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:30:16 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:30:16 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:30:16 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:30:16 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:30:16 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:30:16 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:32:30 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:32:30 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:32:30 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:32:31 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:32:31 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:32:31 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:32:31 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:32:31 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:39:04 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:39:04 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:39:04 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:39:04 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:39:05 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:39:05 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:39:05 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:39:05 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:39:47 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:39:47 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:39:47 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:39:47 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:39:47 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:39:47 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:39:47 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:44:12 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:44:12 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:44:13 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:44:13 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:44:13 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:44:13 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:44:13 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:44:13 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:45:37 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:45:37 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:45:38 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:45:38 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:45:38 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:45:38 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:45:38 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:45:38 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:46:49 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:46:49 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:46:49 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:46:49 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:46:49 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:46:49 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:46:49 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 20:59:04 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 20:59:04 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 20:59:04 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 20:59:05 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 20:59:05 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 20:59:05 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 20:59:05 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 20:59:05 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 21:01:22 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 21:01:22 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 21:01:22 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 21:01:23 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 21:01:23 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 21:01:23 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 21:01:23 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 21:01:23 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 21:19:33 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 21:19:33 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 21:19:33 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 21:19:33 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 21:19:33 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 21:19:33 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 21:19:33 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-12 21:19:44 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 21:19:50 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-12 21:32:37 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-12 21:32:37 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-12 21:32:38 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-12 21:32:38 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-12 21:32:38 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-12 21:32:38 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-12 21:32:38 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-12 21:32:38 - [INFO ] (:0, ): 正在刷新模型列表...
