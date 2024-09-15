@@ -1,0 +1,10 @@
+{
+    "models": [
+        "Mao/Mao.model3.json",
+        "fangcao/fangcao.model3.json",
+        "Hiyori/Hiyori.model3.json",
+        "lafei/lafei_4.model3.json",
+        "taiyuan/taiyuan_2.model3.json",
+        "yichui/yichui_2.model3.json"
+    ]
+}
