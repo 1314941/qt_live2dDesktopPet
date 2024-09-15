@@ -1,0 +1,2088 @@
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 16:00:21 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 16:00:21 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 16:00:21 - [WARN ] (:0, ): QObject::connect(QTimer, listWidgetUse): invalid nullptr parameter
+2024-09-14 16:00:21 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 16:00:21 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:00:21 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:00:21 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 16:00:21 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 16:06:06 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 16:06:06 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 16:06:07 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 16:06:07 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 16:06:07 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:06:07 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:06:07 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 16:06:07 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 16:06:14 - [DEBUG] (:0, ): Hello
+2024-09-14 16:06:14 - [DEBUG] (:0, ): 当前时间是:  "16:06:14"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:06:17 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/Celeste(DLC DUCK)Ⅱ - f.model3.json" 
+
+2024-09-14 16:06:17 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:06:17 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:06:17 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:06:17 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:06:19 - [DEBUG] (:0, ): Hello
+2024-09-14 16:06:19 - [DEBUG] (:0, ): 当前时间是:  "16:06:19"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:06:22 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/EVA-2.model3.json" 
+
+2024-09-14 16:06:22 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:06:22 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:06:22 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:06:22 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 16:10:28 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 16:10:28 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 16:10:28 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 16:10:29 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 16:10:29 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:10:29 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:10:29 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 16:10:29 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Hello
+2024-09-14 16:10:40 - [DEBUG] (:0, ): 当前时间是:  "16:10:40"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/fangcao.model3.json" 
+
+2024-09-14 16:10:40 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:10:40 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:10:44 - [DEBUG] (:0, ): Hello
+2024-09-14 16:10:44 - [DEBUG] (:0, ): 当前时间是:  "16:10:44"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:10:45 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/sanyueqi.model3.json" 
+
+2024-09-14 16:10:45 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:10:45 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:10:45 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:10:45 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Hello
+2024-09-14 16:11:07 - [DEBUG] (:0, ): 当前时间是:  "16:11:07"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/yichui_2.model3.json" 
+
+2024-09-14 16:11:07 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:11:07 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:46 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:46 - [DEBUG] (:0, ): 当前时间是:  "16:20:46"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:49 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/Celeste(DLC DUCK)Ⅱ - f.model3.json" 
+
+2024-09-14 16:20:49 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:49 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:49 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:49 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:51 - [DEBUG] (:0, ): 当前时间是:  "16:20:51"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/Amelia - t.model3.json" 
+
+2024-09-14 16:20:51 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:51 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:52 - [DEBUG] (:0, ): 当前时间是:  "16:20:52"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/Celeste(DLC DUCK)Ⅱ - f.model3.json" 
+
+2024-09-14 16:20:52 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:52 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:53 - [DEBUG] (:0, ): 当前时间是:  "16:20:53"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/Amelia - t.model3.json" 
+
+2024-09-14 16:20:53 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:53 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:54 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:54 - [DEBUG] (:0, ): 当前时间是:  "16:20:54"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:55 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/chunsheng.model3.json" 
+
+2024-09-14 16:20:55 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:55 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:55 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:55 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:56 - [DEBUG] (:0, ): 当前时间是:  "16:20:56"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/Celeste(DLC DUCK)Ⅱ - f.model3.json" 
+
+2024-09-14 16:20:56 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:56 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:57 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:57 - [DEBUG] (:0, ): 当前时间是:  "16:20:57"
+2024-09-14 16:20:57 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:57 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:57 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS"
+2024-09-14 16:20:57 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS"
+2024-09-14 16:20:57 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/chunsheng.model3.json" 
+
+2024-09-14 16:20:57 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:57 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Hello
+2024-09-14 16:20:58 - [DEBUG] (:0, ): 当前时间是:  "16:20:58"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/fangcao.model3.json" 
+
+2024-09-14 16:20:58 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:20:58 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 16:21:26 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 16:21:26 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 16:21:26 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 16:21:27 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 16:21:27 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:21:27 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:21:27 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 16:21:27 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Hello
+2024-09-14 16:21:56 - [DEBUG] (:0, ): 当前时间是:  "16:21:56"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/Hiyori.model3.json" 
+
+2024-09-14 16:21:56 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:21:56 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Hello
+2024-09-14 16:25:09 - [DEBUG] (:0, ): 当前时间是:  "16:25:09"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/Mao.model3.json" 
+
+2024-09-14 16:25:09 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:25:09 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Hello
+2024-09-14 16:25:11 - [DEBUG] (:0, ): 当前时间是:  "16:25:11"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/Rice.model3.json" 
+
+2024-09-14 16:25:11 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:25:11 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Hello
+2024-09-14 16:25:14 - [DEBUG] (:0, ): 当前时间是:  "16:25:14"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/abeikelongbi_3.model3.json" 
+
+2024-09-14 16:25:14 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:25:14 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Hello
+2024-09-14 16:26:51 - [DEBUG] (:0, ): 当前时间是:  "16:26:51"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/Mao.model3.json" 
+
+2024-09-14 16:26:51 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:26:51 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:26:53 - [DEBUG] (:0, ): Hello
+2024-09-14 16:26:53 - [DEBUG] (:0, ): 当前时间是:  "16:26:53"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 16:26:54 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/ariu"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/ariu"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/ariu/ariu.model3.json" 
+
+2024-09-14 16:26:54 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 16:26:54 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 16:26:54 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:26:54 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 16:58:03 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 16:58:03 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 16:58:03 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 16:58:04 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 16:58:04 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 16:58:04 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 16:58:04 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 16:58:04 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 17:04:55 - [DEBUG] (:0, ): Hello
+2024-09-14 17:04:55 - [DEBUG] (:0, ): 当前时间是:  "17:04:55"
+2024-09-14 17:04:55 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:04:55 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:04:55 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori"
+2024-09-14 17:04:55 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori"
+2024-09-14 17:04:55 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/Hiyori.model3.json" 
+
+2024-09-14 17:04:55 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:04:55 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:04:55 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:04:55 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.02
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.04
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.1
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.13
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.22
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.29
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.35
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.38
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.39
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.4
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.43
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.46
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.52
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.53
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.56
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.6
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.61
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.66
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.69
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.73
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.75
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.77
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.78
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.8
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.82
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.83
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.85
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.88
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.89
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.92
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.95
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 1.99
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.02
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.03
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.08
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.09
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.11
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.15
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.18
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.2
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.21
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.22
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.25
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.28
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.29
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.33
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.35
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.38
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.39
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.45
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.48
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.53
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.54
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.57
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.58
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.6
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.61
+2024-09-14 17:05:21 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:21 - [INFO ] (:0, ): scale: 2.62
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 2.61
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 2.58
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 2.53
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 2.45
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 2.39
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 2.36
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 2.21
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 2.13
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 2.06
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.95
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.89
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.87
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.79
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.77
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.73
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.69
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.67
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.63
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.61
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.6
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.54
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.48
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.43
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.39
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.35
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.3
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.26
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.22
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.2
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.15
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.13
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.1
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.08
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.06
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.05
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.03
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 1.02
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 0.99
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 0.97
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 0.94
+2024-09-14 17:05:22 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:22 - [INFO ] (:0, ): scale: 0.9
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.87
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.84
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.81
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.79
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.77
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.76
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.75
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.74
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.73
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.72
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.71
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.68
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.66
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.65
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.64
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.63
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.62
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.6
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.58
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.56
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.53
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.52
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.5
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.49
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.48
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.47
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.45
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.44
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.41
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.4
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.37
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.33
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.29
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.27
+2024-09-14 17:05:23 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:23 - [INFO ] (:0, ): scale: 0.26
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.27
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.28
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.29
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.3
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.31
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.32
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.33
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.35
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.36
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.37
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.38
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.39
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.4
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.41
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.42
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.43
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.44
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.45
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.46
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.47
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.48
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.49
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.5
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.52
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.54
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.55
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.56
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.57
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.58
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.59
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.6
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.61
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.62
+2024-09-14 17:05:24 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:24 - [INFO ] (:0, ): scale: 0.63
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.64
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.66
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.69
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.7
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.71
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.72
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.73
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.74
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.75
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.76
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.77
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.78
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.81
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.82
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.84
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.85
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.86
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.87
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.88
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.9
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.91
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.92
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.93
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.94
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.95
+2024-09-14 17:05:25 - [INFO ] (:0, ): changeViewScale
+2024-09-14 17:05:25 - [INFO ] (:0, ): scale: 0.96
+2024-09-14 17:17:31 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 17:43:07 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 17:43:07 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 17:43:07 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 17:43:08 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 17:43:08 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:43:08 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:43:08 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 17:43:08 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 17:43:53 - [DEBUG] (:0, ): Hello
+2024-09-14 17:43:53 - [DEBUG] (:0, ): 当前时间是:  "17:43:53"
+2024-09-14 17:43:58 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:43:58 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:43:58 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 17:43:58 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 17:43:58 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键/埃及猫女.model3.json" 
+
+2024-09-14 17:43:58 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:43:58 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:43:58 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:43:58 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:13 - [DEBUG] (:0, ): Hello
+2024-09-14 17:44:13 - [DEBUG] (:0, ): 当前时间是:  "17:44:13"
+2024-09-14 17:44:16 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:44:16 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:44:16 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀"
+2024-09-14 17:44:16 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀"
+2024-09-14 17:44:16 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀/祭祀.model3.json" 
+
+2024-09-14 17:44:16 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:44:16 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:44:16 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:16 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 17:44:21 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 17:44:21 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 17:44:21 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 17:44:22 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 17:44:22 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:22 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:22 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 17:44:22 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 17:44:34 - [DEBUG] (:0, ): Hello
+2024-09-14 17:44:34 - [DEBUG] (:0, ): 当前时间是:  "17:44:34"
+2024-09-14 17:44:38 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:44:38 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:44:38 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 17:44:38 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 17:44:38 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键/埃及猫女.model3.json" 
+
+2024-09-14 17:44:38 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:44:38 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:44:38 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:38 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:39 - [DEBUG] (:0, ): Hello
+2024-09-14 17:44:39 - [DEBUG] (:0, ): 当前时间是:  "17:44:39"
+2024-09-14 17:44:42 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:44:42 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:44:42 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀"
+2024-09-14 17:44:42 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀"
+2024-09-14 17:44:42 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀/祭祀.model3.json" 
+
+2024-09-14 17:44:42 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:44:42 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:44:42 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:42 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:43 - [DEBUG] (:0, ): Hello
+2024-09-14 17:44:43 - [DEBUG] (:0, ): 当前时间是:  "17:44:43"
+2024-09-14 17:44:43 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:44:43 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:44:43 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 17:44:43 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 17:44:43 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/yichui_2.model3.json" 
+
+2024-09-14 17:44:43 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:44:43 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:44:43 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:43 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:45 - [DEBUG] (:0, ): Hello
+2024-09-14 17:44:45 - [DEBUG] (:0, ): 当前时间是:  "17:44:45"
+2024-09-14 17:44:45 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:44:45 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:44:45 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 17:44:45 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 17:44:45 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键/埃及猫女.model3.json" 
+
+2024-09-14 17:44:45 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:44:45 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:44:45 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:45 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:46 - [DEBUG] (:0, ): Hello
+2024-09-14 17:44:46 - [DEBUG] (:0, ): 当前时间是:  "17:44:46"
+2024-09-14 17:44:46 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:44:46 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:44:46 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀"
+2024-09-14 17:44:46 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀"
+2024-09-14 17:44:46 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀/祭祀.model3.json" 
+
+2024-09-14 17:44:46 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:44:46 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:44:46 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:46 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:47 - [DEBUG] (:0, ): Hello
+2024-09-14 17:44:47 - [DEBUG] (:0, ): 当前时间是:  "17:44:47"
+2024-09-14 17:44:47 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:44:47 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:44:47 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 17:44:47 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 17:44:47 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键/埃及猫女.model3.json" 
+
+2024-09-14 17:44:47 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:44:47 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:44:47 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:47 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:48 - [DEBUG] (:0, ): Hello
+2024-09-14 17:44:48 - [DEBUG] (:0, ): 当前时间是:  "17:44:48"
+2024-09-14 17:44:48 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 17:44:48 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 17:44:48 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 17:44:48 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 17:44:48 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/yichui_2.model3.json" 
+
+2024-09-14 17:44:48 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 17:44:48 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 17:44:48 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:48 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 17:44:52 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 17:44:52 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 17:44:52 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 17:44:53 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 17:44:53 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 17:44:53 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 17:44:53 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 17:44:53 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 18:07:29 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:29 - [INFO ] (:0, ): scale: 1.09
+2024-09-14 18:07:29 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:29 - [INFO ] (:0, ): scale: 1.21
+2024-09-14 18:07:29 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:29 - [INFO ] (:0, ): scale: 1.34
+2024-09-14 18:07:29 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:29 - [INFO ] (:0, ): scale: 1.57
+2024-09-14 18:07:29 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:29 - [INFO ] (:0, ): scale: 1.7
+2024-09-14 18:07:30 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:30 - [INFO ] (:0, ): scale: 2.15
+2024-09-14 18:07:30 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:30 - [INFO ] (:0, ): scale: 2.27
+2024-09-14 18:07:30 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:30 - [INFO ] (:0, ): scale: 2.78
+2024-09-14 18:07:30 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:30 - [INFO ] (:0, ): scale: 3.19
+2024-09-14 18:07:30 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:30 - [INFO ] (:0, ): scale: 3.78
+2024-09-14 18:07:30 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:30 - [INFO ] (:0, ): scale: 4.17
+2024-09-14 18:07:30 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:30 - [INFO ] (:0, ): scale: 4.89
+2024-09-14 18:07:30 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:30 - [INFO ] (:0, ): scale: 5
+2024-09-14 18:07:30 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:30 - [INFO ] (:0, ): scale: 4.96
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 4.73
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 4.68
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 4.44
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 4.15
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 4.13
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 4.08
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 4.07
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 4.02
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 4.01
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 3.9
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 3.89
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 3.86
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 3.72
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 3.67
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 3.59
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 3.35
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 3.34
+2024-09-14 18:07:31 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:31 - [INFO ] (:0, ): scale: 2.85
+2024-09-14 18:07:32 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:32 - [INFO ] (:0, ): scale: 2.8
+2024-09-14 18:07:32 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:32 - [INFO ] (:0, ): scale: 2.66
+2024-09-14 18:07:32 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:32 - [INFO ] (:0, ): scale: 2.65
+2024-09-14 18:07:32 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:32 - [INFO ] (:0, ): scale: 2.55
+2024-09-14 18:07:32 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:32 - [INFO ] (:0, ): scale: 2.53
+2024-09-14 18:07:32 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:32 - [INFO ] (:0, ): scale: 2.48
+2024-09-14 18:07:32 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:32 - [INFO ] (:0, ): scale: 2.46
+2024-09-14 18:07:32 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:32 - [INFO ] (:0, ): scale: 2.45
+2024-09-14 18:07:32 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:32 - [INFO ] (:0, ): scale: 2.44
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.46
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.49
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.51
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.55
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.57
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.59
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.62
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.66
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.67
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.72
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.73
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.77
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.78
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.85
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.93
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.95
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 2.99
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 3
+2024-09-14 18:07:36 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:36 - [INFO ] (:0, ): scale: 3.01
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.02
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.06
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.07
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.09
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.1
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.13
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.15
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.16
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.17
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.19
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.21
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.3
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.32
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.39
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.43
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.49
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.51
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.54
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.59
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.63
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.66
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.71
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.76
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.79
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.81
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.91
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 3.96
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 4.03
+2024-09-14 18:07:37 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:37 - [INFO ] (:0, ): scale: 4.04
+2024-09-14 18:07:46 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:46 - [INFO ] (:0, ): scale: 4.08
+2024-09-14 18:07:46 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:46 - [INFO ] (:0, ): scale: 4.23
+2024-09-14 18:07:46 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:46 - [INFO ] (:0, ): scale: 4.51
+2024-09-14 18:07:46 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:46 - [INFO ] (:0, ): scale: 4.98
+2024-09-14 18:07:46 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:07:46 - [INFO ] (:0, ): scale: 5
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 4.91
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 4
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 3.91
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 3.3
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 3.24
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2.9
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2.77
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2.75
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2.52
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2.37
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2.34
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2.18
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2.13
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2.02
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 2
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 1.84
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 1.8
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 1.7
+2024-09-14 18:08:02 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:02 - [INFO ] (:0, ): scale: 1.62
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.54
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.5
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.46
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.41
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.4
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.33
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.31
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.28
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.27
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.25
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.24
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.23
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.2
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.19
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.15
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.11
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.08
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.07
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.05
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 1.03
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.99
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.98
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.96
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.95
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.93
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.92
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.89
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.85
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.82
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.81
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.79
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.78
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.77
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.76
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.75
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.74
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.75
+2024-09-14 18:08:03 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:03 - [INFO ] (:0, ): scale: 0.76
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.77
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.78
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.79
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.8
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.81
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.82
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.84
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.85
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.86
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.87
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.89
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.9
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.92
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.93
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.94
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.95
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.96
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.97
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.98
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 0.99
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.01
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.02
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.03
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.04
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.05
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.06
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.07
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.08
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.09
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.1
+2024-09-14 18:08:04 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:04 - [INFO ] (:0, ): scale: 1.11
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 1.1
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 1.09
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 1.08
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 1.07
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 1.06
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 1.04
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 1.03
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 1.02
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 1.01
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 0.99
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 0.98
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 0.97
+2024-09-14 18:08:05 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:05 - [INFO ] (:0, ): scale: 0.96
+2024-09-14 18:08:06 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:06 - [INFO ] (:0, ): scale: 0.97
+2024-09-14 18:08:06 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:06 - [INFO ] (:0, ): scale: 0.98
+2024-09-14 18:08:06 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:06 - [INFO ] (:0, ): scale: 0.99
+2024-09-14 18:08:06 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:08:06 - [INFO ] (:0, ): scale: 1.01
+2024-09-14 18:09:03 - [DEBUG] (:0, ): Hello
+2024-09-14 18:09:03 - [DEBUG] (:0, ): 当前时间是:  "18:09:03"
+2024-09-14 18:09:04 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:09:04 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:09:04 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/abeikelongbi_3"
+2024-09-14 18:09:04 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3"
+2024-09-14 18:09:04 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/abeikelongbi_3.model3.json" 
+
+2024-09-14 18:09:04 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 18:09:04 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:09:04 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:09:04 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:09:24 - [DEBUG] (:0, ): Hello
+2024-09-14 18:09:24 - [DEBUG] (:0, ): 当前时间是:  "18:09:24"
+2024-09-14 18:09:25 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:09:25 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:09:25 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/aimudeng_2"
+2024-09-14 18:09:25 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/aimudeng_2"
+2024-09-14 18:09:25 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/aimudeng_2/aimudeng_2.model3.json" 
+
+2024-09-14 18:09:25 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:09:25 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:09:25 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:09:25 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.04
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.08
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.26
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.35
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.37
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.45
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.47
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.48
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.53
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.54
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.61
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.62
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.72
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.74
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.77
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.79
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.8
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.82
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.84
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.85
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.88
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.9
+2024-09-14 18:09:39 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:39 - [INFO ] (:0, ): scale: 1.91
+2024-09-14 18:09:40 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:40 - [INFO ] (:0, ): scale: 1.88
+2024-09-14 18:09:40 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:40 - [INFO ] (:0, ): scale: 1.86
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 1.92
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.02
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.11
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.33
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.42
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.53
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.59
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.69
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.73
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.88
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 2.95
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 3.03
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 3.16
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 3.25
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 3.37
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 3.41
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 3.42
+2024-09-14 18:09:44 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:44 - [INFO ] (:0, ): scale: 3.39
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 3.36
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.99
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.81
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.67
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.57
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.55
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.45
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.43
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.28
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.26
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.21
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.2
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.15
+2024-09-14 18:09:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:52 - [INFO ] (:0, ): scale: 2.13
+2024-09-14 18:09:53 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:09:53 - [INFO ] (:0, ): scale: 2.11
+2024-09-14 18:10:04 - [DEBUG] (:0, ): Hello
+2024-09-14 18:10:04 - [DEBUG] (:0, ): 当前时间是:  "18:10:04"
+2024-09-14 18:10:04 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:10:04 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:10:04 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/bailong_3"
+2024-09-14 18:10:04 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/bailong_3"
+2024-09-14 18:10:04 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/bailong_3/bailong_3.model3.json" 
+
+2024-09-14 18:10:04 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:10:04 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:10:04 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:10:04 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:10:43 - [DEBUG] (:0, ): Hello
+2024-09-14 18:10:43 - [DEBUG] (:0, ): 当前时间是:  "18:10:43"
+2024-09-14 18:10:44 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:10:44 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:10:44 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/chaijun_4_hx"
+2024-09-14 18:10:44 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chaijun_4_hx"
+2024-09-14 18:10:44 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chaijun_4_hx/chaijun_4_hx.model3.json" 
+
+2024-09-14 18:10:44 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:10:44 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:10:44 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:10:44 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.15
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.19
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.25
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.34
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.37
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.41
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.42
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.44
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.48
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.51
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.53
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.54
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.55
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.57
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.58
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.6
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.62
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.64
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.65
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.66
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.67
+2024-09-14 18:10:51 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:51 - [INFO ] (:0, ): scale: 2.68
+2024-09-14 18:10:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:52 - [INFO ] (:0, ): scale: 2.67
+2024-09-14 18:10:52 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:10:52 - [INFO ] (:0, ): scale: 2.66
+2024-09-14 18:11:10 - [DEBUG] (:0, ): Hello
+2024-09-14 18:11:10 - [DEBUG] (:0, ): 当前时间是:  "18:11:10"
+2024-09-14 18:11:11 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:11:11 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:11:11 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/feiteliedadi_3"
+2024-09-14 18:11:11 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/feiteliedadi_3"
+2024-09-14 18:11:11 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/feiteliedadi_3/feiteliedadi_3.model3.json" 
+
+2024-09-14 18:11:11 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:11:11 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:11:11 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:11:11 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:11:28 - [DEBUG] (:0, ): Hello
+2024-09-14 18:11:28 - [DEBUG] (:0, ): 当前时间是:  "18:11:28"
+2024-09-14 18:11:28 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:11:28 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:11:28 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/heitaizi_2"
+2024-09-14 18:11:28 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/heitaizi_2"
+2024-09-14 18:11:28 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/heitaizi_2/heitaizi_2.model3.json" 
+
+2024-09-14 18:11:28 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:11:28 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:11:28 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:11:28 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:11:42 - [DEBUG] (:0, ): Hello
+2024-09-14 18:11:42 - [DEBUG] (:0, ): 当前时间是:  "18:11:42"
+2024-09-14 18:11:42 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:11:42 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:11:42 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/lafei_4"
+2024-09-14 18:11:42 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei_4"
+2024-09-14 18:11:42 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei_4/lafei_4.model3.json" 
+
+2024-09-14 18:11:42 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:11:42 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:11:42 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:11:42 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:11:51 - [DEBUG] (:0, ): Hello
+2024-09-14 18:11:51 - [DEBUG] (:0, ): 当前时间是:  "18:11:51"
+2024-09-14 18:11:51 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:11:51 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:11:51 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/pinghai_4"
+2024-09-14 18:11:51 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/pinghai_4"
+2024-09-14 18:11:51 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/pinghai_4/pinghai_4.model3.json" 
+
+2024-09-14 18:11:51 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:11:51 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:11:51 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:11:51 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:12:04 - [DEBUG] (:0, ): Hello
+2024-09-14 18:12:04 - [DEBUG] (:0, ): 当前时间是:  "18:12:04"
+2024-09-14 18:12:04 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:12:04 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:12:04 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/z46_3"
+2024-09-14 18:12:04 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/z46_3"
+2024-09-14 18:12:04 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/z46_3/z46_3.model3.json" 
+
+2024-09-14 18:12:04 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:12:04 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:12:04 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:12:04 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:12:13 - [DEBUG] (:0, ): Hello
+2024-09-14 18:12:13 - [DEBUG] (:0, ): 当前时间是:  "18:12:13"
+2024-09-14 18:12:13 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:12:13 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:12:13 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/zhala_2"
+2024-09-14 18:12:13 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/zhala_2"
+2024-09-14 18:12:13 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/zhala_2/zhala_2.model3.json" 
+
+2024-09-14 18:12:13 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:12:13 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:12:13 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:12:13 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:12:27 - [DEBUG] (:0, ): Hello
+2024-09-14 18:12:27 - [DEBUG] (:0, ): 当前时间是:  "18:12:27"
+2024-09-14 18:12:28 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 18:12:28 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 18:12:28 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/sipeibojue_5"
+2024-09-14 18:12:28 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sipeibojue_5"
+2024-09-14 18:12:28 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sipeibojue_5/sipeibojue_5.model3.json" 
+
+2024-09-14 18:12:28 - [DEBUG] (:0, ): 模型文件不存在，开始复制文件夹。
+2024-09-14 18:12:28 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 18:12:28 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 18:12:28 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 2.6
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 2.39
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 2.34
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 2.05
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 2.01
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 1.86
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 1.83
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 1.71
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 1.68
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 1.56
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 1.54
+2024-09-14 18:12:33 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:33 - [INFO ] (:0, ): scale: 1.5
+2024-09-14 18:12:34 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:34 - [INFO ] (:0, ): scale: 1.45
+2024-09-14 18:12:34 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:34 - [INFO ] (:0, ): scale: 1.44
+2024-09-14 18:12:34 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:34 - [INFO ] (:0, ): scale: 1.39
+2024-09-14 18:12:34 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:34 - [INFO ] (:0, ): scale: 1.37
+2024-09-14 18:12:34 - [INFO ] (:0, ): changeViewScale
+2024-09-14 18:12:34 - [INFO ] (:0, ): scale: 1.36
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:31:23 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 21:31:23 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 21:31:24 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 21:31:24 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 21:31:24 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:31:24 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:31:24 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 21:31:24 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 21:31:40 - [DEBUG] (:0, ): Hello
+2024-09-14 21:31:40 - [DEBUG] (:0, ): 当前时间是:  "21:31:40"
+2024-09-14 21:31:40 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:31:40 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:31:40 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/zhala_2"
+2024-09-14 21:31:40 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/zhala_2"
+2024-09-14 21:31:40 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/zhala_2/zhala_2.model3.json" 
+
+2024-09-14 21:31:40 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:31:40 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:31:40 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:31:40 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:31:46 - [DEBUG] (:0, ): Hello
+2024-09-14 21:31:46 - [DEBUG] (:0, ): 当前时间是:  "21:31:46"
+2024-09-14 21:31:46 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:31:46 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:31:46 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei"
+2024-09-14 21:31:46 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei"
+2024-09-14 21:31:46 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/lafei_4.model3.json" 
+
+2024-09-14 21:31:46 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:31:46 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:31:46 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:31:46 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:31:47 - [DEBUG] (:0, ): Hello
+2024-09-14 21:31:47 - [DEBUG] (:0, ): 当前时间是:  "21:31:47"
+2024-09-14 21:31:48 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:31:48 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:31:48 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei_4"
+2024-09-14 21:31:48 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei_4"
+2024-09-14 21:31:48 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei_4/lafei_4.model3.json" 
+
+2024-09-14 21:31:48 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:31:48 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:31:48 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:31:48 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:31:49 - [DEBUG] (:0, ): Hello
+2024-09-14 21:31:49 - [DEBUG] (:0, ): 当前时间是:  "21:31:49"
+2024-09-14 21:31:50 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:31:50 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:31:50 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox"
+2024-09-14 21:31:50 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox"
+2024-09-14 21:31:50 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/llny.model3.json" 
+
+2024-09-14 21:31:50 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:31:50 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:31:50 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:31:50 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:31:52 - [DEBUG] (:0, ): Hello
+2024-09-14 21:31:52 - [DEBUG] (:0, ): 当前时间是:  "21:31:52"
+2024-09-14 21:31:53 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:31:53 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:31:53 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng"
+2024-09-14 21:31:53 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng"
+2024-09-14 21:31:53 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/chunsheng.model3.json" 
+
+2024-09-14 21:31:53 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:31:53 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:31:53 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:31:53 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:31:54 - [DEBUG] (:0, ): Hello
+2024-09-14 21:31:54 - [DEBUG] (:0, ): 当前时间是:  "21:31:54"
+2024-09-14 21:31:55 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:31:55 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:31:55 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 21:31:55 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao"
+2024-09-14 21:31:55 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/fangcao.model3.json" 
+
+2024-09-14 21:31:55 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:31:55 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:31:55 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:31:55 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:31:56 - [DEBUG] (:0, ): Hello
+2024-09-14 21:31:56 - [DEBUG] (:0, ): 当前时间是:  "21:31:56"
+2024-09-14 21:31:57 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:31:57 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:31:57 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS"
+2024-09-14 21:31:57 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS"
+2024-09-14 21:31:57 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/chunsheng.model3.json" 
+
+2024-09-14 21:31:57 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:31:57 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:31:57 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:31:57 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:31:58 - [DEBUG] (:0, ): Hello
+2024-09-14 21:31:58 - [DEBUG] (:0, ): 当前时间是:  "21:31:58"
+2024-09-14 21:31:58 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:31:58 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:31:58 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/heitaizi_2"
+2024-09-14 21:31:58 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/heitaizi_2"
+2024-09-14 21:31:58 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/heitaizi_2/heitaizi_2.model3.json" 
+
+2024-09-14 21:31:58 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:31:58 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:31:58 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:31:58 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:32:00 - [DEBUG] (:0, ): Hello
+2024-09-14 21:32:00 - [DEBUG] (:0, ): 当前时间是:  "21:32:00"
+2024-09-14 21:32:04 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:32:04 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:32:04 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1"
+2024-09-14 21:32:04 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1"
+2024-09-14 21:32:04 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/witch X1.model3.json" 
+
+2024-09-14 21:32:04 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:32:04 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:32:04 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:32:04 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:32:09 - [DEBUG] (:0, ): Hello
+2024-09-14 21:32:09 - [DEBUG] (:0, ): 当前时间是:  "21:32:09"
+2024-09-14 21:32:18 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:32:18 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:32:18 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 21:32:18 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 21:32:18 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键/埃及猫女.model3.json" 
+
+2024-09-14 21:32:18 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:32:18 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:32:18 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:32:18 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:32:20 - [DEBUG] (:0, ): Hello
+2024-09-14 21:32:20 - [DEBUG] (:0, ): 当前时间是:  "21:32:20"
+2024-09-14 21:32:20 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:32:20 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:32:20 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/z46_3"
+2024-09-14 21:32:20 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/z46_3"
+2024-09-14 21:32:20 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/z46_3/z46_3.model3.json" 
+
+2024-09-14 21:32:20 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:32:20 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:32:20 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:32:20 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:32:21 - [DEBUG] (:0, ): Hello
+2024-09-14 21:32:21 - [DEBUG] (:0, ): 当前时间是:  "21:32:21"
+2024-09-14 21:32:22 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:32:22 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:32:22 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/zhala_2"
+2024-09-14 21:32:22 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/zhala_2"
+2024-09-14 21:32:22 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/zhala_2/zhala_2.model3.json" 
+
+2024-09-14 21:32:22 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:32:22 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:32:22 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:32:22 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:32:23 - [DEBUG] (:0, ): Hello
+2024-09-14 21:32:23 - [DEBUG] (:0, ): 当前时间是:  "21:32:23"
+2024-09-14 21:32:23 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:32:23 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:32:23 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 21:32:23 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui"
+2024-09-14 21:32:23 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/yichui_2.model3.json" 
+
+2024-09-14 21:32:23 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:32:23 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:32:23 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:32:23 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:32:25 - [DEBUG] (:0, ): Hello
+2024-09-14 21:32:25 - [DEBUG] (:0, ): 当前时间是:  "21:32:25"
+2024-09-14 21:32:25 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:32:25 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:32:25 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei_4"
+2024-09-14 21:32:25 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei_4"
+2024-09-14 21:32:25 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei_4/lafei_4.model3.json" 
+
+2024-09-14 21:32:25 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:32:25 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:32:25 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:32:25 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:33:29 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 21:33:31 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 21:33:34 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 21:33:36 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 21:33:39 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 21:33:40 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 21:33:42 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 21:33:45 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/aimudeng_2/example.png"
+2024-09-14 21:33:46 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/ariu/example.png"
+2024-09-14 21:33:49 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/bailong_3/example.png"
+2024-09-14 21:33:51 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chaijun_4_hx/example.png"
+2024-09-14 21:33:56 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 21:33:58 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 21:34:26 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 21:34:34 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/feiteliedadi_3/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/aimudeng_2/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/bailong_3/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chaijun_4_hx/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/feiteliedadi_3/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/feiteliedadi_3/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:34:46 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 21:34:46 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 21:34:47 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 21:34:47 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 21:34:47 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:34:47 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:34:47 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 21:34:47 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 21:34:53 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 21:38:39 - [DEBUG] (:0, ): Hello
+2024-09-14 21:38:39 - [DEBUG] (:0, ): 当前时间是:  "21:38:39"
+2024-09-14 21:38:42 - [DEBUG] (:0, ): 模型验证成功！
+2024-09-14 21:38:42 - [DEBUG] (:0, ): Output file path:  "output.txt"
+2024-09-14 21:38:42 - [DEBUG] (:0, ): folderPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 21:38:42 - [DEBUG] (:0, ): resourcePath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键"
+2024-09-14 21:38:42 - [DEBUG] (:0, ): newModelPath:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键/埃及猫女.model3.json" 
+
+2024-09-14 21:38:42 - [DEBUG] (:0, ): 模型文件已存在，无需复制文件夹。
+2024-09-14 21:38:42 - [DEBUG] (:0, ): Model path added to txt file.
+
+2024-09-14 21:38:42 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:38:42 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:41:25 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Amelia/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Celeste(DLC DUCK)Ⅱ - f/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/EVA-2 - free/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Hiyori/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Mao/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/Rice/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/abeikelongbi_3/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/aimudeng_2/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "Resources/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/bailong_3/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chaijun_4_hx/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/chunsheng_VTS/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/fangcao/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/feiteliedadi_3/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/feiteliedadi_3/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/mianfeimox/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sanyueqi/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/taiyuan/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/witch X1/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): example.png路径： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/yichui/example.png"
+2024-09-14 21:48:56 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-14 21:48:56 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-14 21:48:56 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-14 21:48:57 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-14 21:48:57 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:48:57 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:48:57 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-14 21:48:57 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-14 21:49:55 - [DEBUG] (:0, ): Hello
+2024-09-14 21:49:55 - [DEBUG] (:0, ): 当前时间是:  "21:49:55"
+2024-09-14 21:49:55 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/jiuyun_2/example.png"
+2024-09-14 21:49:55 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:49:55 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:50:04 - [DEBUG] (:0, ): Hello
+2024-09-14 21:50:04 - [DEBUG] (:0, ): 当前时间是:  "21:50:04"
+2024-09-14 21:50:04 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/beierfasite_2/example.png"
+2024-09-14 21:50:04 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:50:04 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:51:07 - [DEBUG] (:0, ): Hello
+2024-09-14 21:51:07 - [DEBUG] (:0, ): 当前时间是:  "21:51:07"
+2024-09-14 21:51:08 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/zhala_2/example.png"
+2024-09-14 21:51:08 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:51:08 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:51:16 - [DEBUG] (:0, ): Hello
+2024-09-14 21:51:16 - [DEBUG] (:0, ): 当前时间是:  "21:51:16"
+2024-09-14 21:51:16 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/z46_3/example.png"
+2024-09-14 21:51:16 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:51:16 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:51:27 - [DEBUG] (:0, ): Hello
+2024-09-14 21:51:27 - [DEBUG] (:0, ): 当前时间是:  "21:51:27"
+2024-09-14 21:51:27 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/sipeibojue_5/example.png"
+2024-09-14 21:51:27 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:51:27 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:51:35 - [DEBUG] (:0, ): Hello
+2024-09-14 21:51:35 - [DEBUG] (:0, ): 当前时间是:  "21:51:35"
+2024-09-14 21:51:38 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀/example.png"
+2024-09-14 21:51:38 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:51:38 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:51:45 - [DEBUG] (:0, ): Hello
+2024-09-14 21:51:45 - [DEBUG] (:0, ): 当前时间是:  "21:51:45"
+2024-09-14 21:51:48 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/埃及猫女无按键/example.png"
+2024-09-14 21:51:48 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:51:48 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:51:56 - [DEBUG] (:0, ): Hello
+2024-09-14 21:51:56 - [DEBUG] (:0, ): 当前时间是:  "21:51:56"
+2024-09-14 21:51:56 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/pinghai_4/example.png"
+2024-09-14 21:51:56 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:51:56 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:52:03 - [DEBUG] (:0, ): Hello
+2024-09-14 21:52:03 - [DEBUG] (:0, ): 当前时间是:  "21:52:03"
+2024-09-14 21:52:03 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/lafei_4/example.png"
+2024-09-14 21:52:03 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:52:03 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:52:11 - [DEBUG] (:0, ): Hello
+2024-09-14 21:52:11 - [DEBUG] (:0, ): 当前时间是:  "21:52:11"
+2024-09-14 21:52:11 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/heitaizi_2/example.png"
+2024-09-14 21:52:11 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:52:11 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-14 21:52:36 - [DEBUG] (:0, ): Hello
+2024-09-14 21:52:36 - [DEBUG] (:0, ): 当前时间是:  "21:52:36"
+2024-09-14 21:52:36 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/chuixue_3/example.png"
+2024-09-14 21:52:36 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-14 21:52:36 - [DEBUG] (:0, ): Output file created successfully.

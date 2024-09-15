@@ -1,0 +1,495 @@
+2024-09-15 13:44:42 - [INFO ] (:0, ): 开始获取模型图片列表
+2024-09-15 13:44:42 - [DEBUG] (:0, ): 模型共 63 个
+2024-09-15 13:44:42 - [DEBUG] (:0, ): 模型图片共: 63 个
+2024-09-15 13:44:42 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-15 13:44:42 - [INFO ] (:0, ): 获取模型图片列表成功
+2024-09-15 13:44:42 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-15 13:44:43 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-15 13:44:43 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-15 13:44:43 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:44:43 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:44:43 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-15 13:44:43 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-15 13:48:02 - [INFO ] (:0, ): 开始获取模型图片列表
+2024-09-15 13:48:02 - [DEBUG] (:0, ): 模型共 63 个
+2024-09-15 13:48:02 - [DEBUG] (:0, ): 模型图片共: 63 个
+2024-09-15 13:48:02 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-15 13:48:02 - [INFO ] (:0, ): 获取模型图片列表成功
+2024-09-15 13:48:02 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-15 13:48:03 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-15 13:48:03 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-15 13:48:03 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:48:03 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:48:03 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-15 13:48:03 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-15 13:55:31 - [INFO ] (:0, ): 开始获取模型图片列表
+2024-09-15 13:55:31 - [DEBUG] (:0, ): 模型共 63 个
+2024-09-15 13:55:31 - [DEBUG] (:0, ): 模型图片共: 63 个
+2024-09-15 13:55:31 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-15 13:55:31 - [INFO ] (:0, ): 获取模型图片列表成功
+2024-09-15 13:55:31 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-15 13:55:32 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-15 13:55:33 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-15 13:55:33 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:55:33 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:55:33 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-15 13:55:33 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-15 13:57:46 - [DEBUG] (:0, ): Hello
+2024-09-15 13:57:46 - [DEBUG] (:0, ): 当前时间是:  "13:57:46"
+2024-09-15 13:57:47 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/bailong_3/example.png"
+2024-09-15 13:57:47 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:57:47 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:57:52 - [DEBUG] (:0, ): Hello
+2024-09-15 13:57:52 - [DEBUG] (:0, ): 当前时间是:  "13:57:52"
+2024-09-15 13:57:53 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/banrenma_2/example.png"
+2024-09-15 13:57:53 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:57:53 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:57:54 - [DEBUG] (:0, ): Hello
+2024-09-15 13:57:54 - [DEBUG] (:0, ): 当前时间是:  "13:57:54"
+2024-09-15 13:57:54 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/bailong_3/example.png"
+2024-09-15 13:57:54 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:57:54 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:57:55 - [DEBUG] (:0, ): Hello
+2024-09-15 13:57:55 - [DEBUG] (:0, ): 当前时间是:  "13:57:55"
+2024-09-15 13:57:56 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/beierfasite_2/example.png"
+2024-09-15 13:57:56 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:57:56 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:57:56 - [DEBUG] (:0, ): Hello
+2024-09-15 13:57:56 - [DEBUG] (:0, ): 当前时间是:  "13:57:56"
+2024-09-15 13:57:57 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/dafeng_3/example.png"
+2024-09-15 13:57:57 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:57:57 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:57:58 - [DEBUG] (:0, ): Hello
+2024-09-15 13:57:58 - [DEBUG] (:0, ): 当前时间是:  "13:57:58"
+2024-09-15 13:57:58 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/deyizhi_3/example.png"
+2024-09-15 13:57:58 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:57:58 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:57:59 - [DEBUG] (:0, ): Hello
+2024-09-15 13:57:59 - [DEBUG] (:0, ): 当前时间是:  "13:57:59"
+2024-09-15 13:58:06 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/祭祀/example.png"
+2024-09-15 13:58:06 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:58:06 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:58:09 - [DEBUG] (:0, ): Hello
+2024-09-15 13:58:09 - [DEBUG] (:0, ): 当前时间是:  "13:58:09"
+2024-09-15 13:58:09 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/weiyan_6/example.png"
+2024-09-15 13:58:09 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:58:09 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:58:11 - [DEBUG] (:0, ): Hello
+2024-09-15 13:58:11 - [DEBUG] (:0, ): 当前时间是:  "13:58:11"
+2024-09-15 13:58:11 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/xianghe_2/example.png"
+2024-09-15 13:58:11 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:58:11 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:58:13 - [DEBUG] (:0, ): Hello
+2024-09-15 13:58:13 - [DEBUG] (:0, ): 当前时间是:  "13:58:13"
+2024-09-15 13:58:13 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/xukufu_3_hx/example.png"
+2024-09-15 13:58:13 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:58:13 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:58:15 - [INFO ] (:0, ): 开始获取模型图片列表
+2024-09-15 13:58:15 - [DEBUG] (:0, ): 模型共 63 个
+2024-09-15 13:58:15 - [DEBUG] (:0, ): 模型图片共: 63 个
+2024-09-15 13:58:15 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-15 13:58:15 - [INFO ] (:0, ): 获取模型图片列表成功
+2024-09-15 13:58:15 - [INFO ] (:0, ): 刷新模型选择界面...
+2024-09-15 13:58:16 - [INFO ] (:0, ): 刷新模型选择界面成功！
+2024-09-15 13:58:34 - [DEBUG] (:0, ): Hello
+2024-09-15 13:58:34 - [DEBUG] (:0, ): 当前时间是:  "13:58:34"
+2024-09-15 13:58:35 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/yilishabai_6/example.png"
+2024-09-15 13:58:35 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:58:35 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:58:42 - [DEBUG] (:0, ): Hello
+2024-09-15 13:58:42 - [DEBUG] (:0, ): 当前时间是:  "13:58:42"
+2024-09-15 13:58:44 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/xiafei_4/example.png"
+2024-09-15 13:58:45 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:58:45 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:59:06 - [DEBUG] (:0, ): Hello
+2024-09-15 13:59:06 - [DEBUG] (:0, ): 当前时间是:  "13:59:06"
+2024-09-15 13:59:07 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/qiye_9/example.png"
+2024-09-15 13:59:07 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:59:07 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:59:17 - [DEBUG] (:0, ): Hello
+2024-09-15 13:59:17 - [DEBUG] (:0, ): 当前时间是:  "13:59:17"
+2024-09-15 13:59:17 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/kalvbudisi_2/example.png"
+2024-09-15 13:59:17 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:59:17 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 13:59:25 - [INFO ] (:0, ): 开始获取模型图片列表
+2024-09-15 13:59:25 - [DEBUG] (:0, ): 模型共 67 个
+2024-09-15 13:59:25 - [DEBUG] (:0, ): 模型图片共: 67 个
+2024-09-15 13:59:25 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-15 13:59:25 - [INFO ] (:0, ): 获取模型图片列表成功
+2024-09-15 13:59:25 - [INFO ] (:0, ): 刷新模型选择界面...
+2024-09-15 13:59:25 - [INFO ] (:0, ): 刷新模型选择界面成功！
+2024-09-15 13:59:41 - [DEBUG] (:0, ): Hello
+2024-09-15 13:59:41 - [DEBUG] (:0, ): 当前时间是:  "13:59:41"
+2024-09-15 13:59:44 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Documents/MuMu共享文件夹/blhs/live2d/extract/Live2DOutput/assets/artresource/live2d/longwu_2/example.png"
+2024-09-15 13:59:45 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 13:59:45 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 14:02:47 - [INFO ] (:0, ): 开始获取模型图片列表
+2024-09-15 14:02:47 - [DEBUG] (:0, ): 模型共 68 个
+2024-09-15 14:02:47 - [DEBUG] (:0, ): 模型图片共: 68 个
+2024-09-15 14:02:47 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-15 14:02:47 - [INFO ] (:0, ): 获取模型图片列表成功
+2024-09-15 14:02:47 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-15 14:02:48 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-15 14:02:48 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-15 14:02:48 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 14:02:48 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 14:02:48 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-15 14:02:48 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-15 14:09:13 - [INFO ] (:0, ): 开始获取模型图片列表
+2024-09-15 14:09:13 - [DEBUG] (:0, ): 模型共 68 个
+2024-09-15 14:09:13 - [DEBUG] (:0, ): 模型图片共: 68 个
+2024-09-15 14:09:13 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-15 14:09:13 - [INFO ] (:0, ): 获取模型图片列表成功
+2024-09-15 14:09:13 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-15 14:09:14 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-15 14:09:14 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-15 14:09:14 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 14:09:14 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 14:09:14 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-15 14:09:14 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-15 14:09:28 - [DEBUG] (:0, ): Hello
+2024-09-15 14:09:28 - [DEBUG] (:0, ): 当前时间是:  "14:09:28"
+2024-09-15 14:09:29 - [DEBUG] (:0, ): 截图已保存到： "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources/xukufu_3_hx/example.png"
+2024-09-15 14:09:29 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 14:09:29 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.01
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.04
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.05
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.09
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.1
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.15
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.18
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.2
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.21
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.22
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.23
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.24
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.25
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.26
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.27
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.28
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.3
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.31
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.33
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.34
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.36
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.37
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.38
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.39
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.4
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.41
+2024-09-15 14:10:21 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:21 - [INFO ] (:0, ): scale: 1.42
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.43
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.44
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.45
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.46
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.47
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.48
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.49
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.5
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.51
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.52
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.54
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.55
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.56
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.57
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.59
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.6
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.61
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.62
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.63
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.65
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.66
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.67
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.68
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.69
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.7
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.71
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.73
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.74
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.76
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.78
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.81
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.84
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.86
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.87
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.89
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.9
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.91
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.92
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.93
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.95
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.97
+2024-09-15 14:10:22 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:22 - [INFO ] (:0, ): scale: 1.99
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.03
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.04
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.06
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.07
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.09
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.1
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.11
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.12
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.14
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.15
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.16
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.17
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.18
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.2
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.21
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.22
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.21
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.19
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.18
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.16
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.15
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.14
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.13
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.05
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 2.04
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.96
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.95
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.89
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.88
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.82
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.81
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.76
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.74
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.71
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.7
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.67
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.65
+2024-09-15 14:10:23 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:23 - [INFO ] (:0, ): scale: 1.59
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.56
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.55
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.52
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.5
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.49
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.48
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.46
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.45
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.44
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.43
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.42
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.41
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.4
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.37
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.35
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.32
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.31
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.3
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.29
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.27
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.26
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.25
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.23
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.22
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.21
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.2
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.19
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.18
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.17
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.16
+2024-09-15 14:10:24 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:24 - [INFO ] (:0, ): scale: 1.15
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1.14
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1.13
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1.12
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1.11
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1.09
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1.06
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1.04
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1.03
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1.01
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 1
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 0.99
+2024-09-15 14:10:25 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:25 - [INFO ] (:0, ): scale: 0.98
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 0.99
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 1.01
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 1.03
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 1.04
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 1.06
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 1.07
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 1.08
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 1.09
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 1.1
+2024-09-15 14:10:26 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:26 - [INFO ] (:0, ): scale: 1.11
+2024-09-15 14:10:27 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:27 - [INFO ] (:0, ): scale: 1.12
+2024-09-15 14:10:27 - [INFO ] (:0, ): changeViewScale
+2024-09-15 14:10:27 - [INFO ] (:0, ): scale: 1.13
+2024-09-15 14:10:29 - [WARN ] (:0, ): "" 不是数字
+2024-09-15 14:13:06 - [INFO ] (:0, ): 开始获取模型图片列表
+2024-09-15 14:13:06 - [DEBUG] (:0, ): 模型共 68 个
+2024-09-15 14:13:06 - [DEBUG] (:0, ): 模型图片共: 68 个
+2024-09-15 14:13:06 - [DEBUG] (:0, ): 路径已写入文件
+2024-09-15 14:13:06 - [INFO ] (:0, ): 获取模型图片列表成功
+2024-09-15 14:13:06 - [INFO ] (:0, ): 模型选择界面构建中...
+2024-09-15 14:13:07 - [INFO ] (:0, ): 模型选择界面构建成功！
+2024-09-15 14:13:07 - [INFO ] (:0, ): 设置面板加载完成
+2024-09-15 14:13:07 - [DEBUG] (:0, ): Resource folder:  "C:/Users/xiaobai/Desktop/study_project/QtLive2dDesktop/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Release/build_release/Resources"
+2024-09-15 14:13:08 - [DEBUG] (:0, ): Output file created successfully.
+2024-09-15 14:13:08 - [INFO ] (:0, ): Models loaded successfully.
+2024-09-15 14:13:08 - [INFO ] (:0, ): 正在刷新模型列表...
+2024-09-15 14:13:37 - [INFO ] (:0, ): 切换间隔为 "1" 分钟
+2024-09-15 14:13:44 - [WARN ] (:0, ): "" 不是数字
+2024-09-15 14:13:45 - [WARN ] (:0, ): "0" 不是数字
+2024-09-15 14:13:46 - [WARN ] (:0, ): "0." 不是数字
